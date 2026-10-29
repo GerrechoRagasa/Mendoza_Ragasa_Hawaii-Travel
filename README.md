@@ -13,8 +13,8 @@
 - **Source (URL or reference): [Kaggle - Hawaii Travel: Length of Trip](https://www.kaggle.com/datasets/csafrit2/hawaii-travel-length-of-trip)**
 - **License/Attribution: Open Data Commons / Kaggle Public Domain**
 - **Objective:**
-- 1. To examine how visitor length of stay in Hawaii has changed over the years, including long-term trends and the unusual shift during the pandemic period.
-  2. To compare length of stay across the Hawaiian islands and other locations, in order to see which destinations tend to hold visitors longer and which see shorter visits.
+1. To examine how visitor length of stay in Hawaii has changed over the years, including long-term trends and the unusual shift during the pandemic period.
+2. To compare length of stay across the Hawaiian islands and other locations, in order to see which destinations tend to hold visitors longer and which see shorter visits.
 
 ## 3. Flowchart
 - Embed your flowchart image here:
@@ -39,19 +39,19 @@
 
 ## 5. Visualizations
 - Total: **10**
-- 1. Statewide trend (all visitors by air). A line chart of average length of stay from 1999 to 2021, with the pandemic years shaded. Stays rose from 8.9 days in 1999 to a peak of 9.5 in 2011, then drifted down to 8.8 in 2019 before jumping to 10.6 in 2020.
-  2. First-time vs repeat visitors. Statewide stay length for first-time and repeat visitors, shown against all visitors. Repeat visitors stay about a day longer than first-timers (9.0 vs 8.2 days in 2019). Neither group has a 2020 value.
-  3. Accommodation type. Statewide stay length for hotel, condo, timeshare and rental-house visitors. Condo-only visitors stay longest, at 10.4 days in 2019 against 7.1 for hotel-only. In 2020 condo stays reached 13.1 days and rental-house stays 12.3.
-  4. Trip purpose. Honeymoon, wedding, business/meetings (MCI) and visiting-friends-and-relatives visitors compared statewide. Visitors seeing friends and relatives stay longest (10.7 days in 2019, peaking at 14.4 in 2020), while business and meetings visitors stay shortest at around 7 to 8 days.
-  5. Trend by island. Oahu, Maui, Kauai and Hawaii Island over time. All four started near 6 to 7 days in 1999 and ended near 7 to 8 by 2019. Hawaii Island saw the biggest 2020 jump, from 7.4 to 10.1 days.
-  6. Location ranking, 2019. Ranked bars of all-visitor stay length across the nine locations before the pandemic. The statewide figure is 8.8 days, followed by Maui at 7.9, while Lanai is lowest at 3.2.
-  7. Heatmap, group by location (2019). A matrix of stay length where darker cells mean longer stays. The darkest cells are statewide visiting-friends-and-relatives (10.7 days) and statewide condo-only (10.4). The palest cells are Molokai hotel-only (2.4) and Lanai first-time (2.4).
-  8. 2019 vs 2021 by location. Paired bars showing the pandemic-era shift. Stay length rose in every location, by 0.8 days statewide and by as much as 2.6 on Molokai.
-  9. Distribution by visitor group. Boxplots pooling all years and locations. Condo-only visitors have the highest median (9.5 days) and the widest spread, while honeymoon and hotel-only visitors have the lowest medians (5.1 and 5.4 days).
-  10. Data availability map. A statewide grid showing which group-and-year cells contain data. Visitor groups like All visitors, Hotel-only, Condo-only and MCI have all 23 years, but Rental house and B&B have 8 and Family has 10..
+1. Statewide trend (all visitors by air). A line chart of average length of stay from 1999 to 2021, with the pandemic years shaded. Stays rose from 8.9 days in 1999 to a peak of 9.5 in 2011, then drifted down to 8.8 in 2019 before jumping to 10.6 in 2020.
+2. First-time vs repeat visitors. Statewide stay length for first-time and repeat visitors, shown against all visitors. Repeat visitors stay about a day longer than first-timers (9.0 vs 8.2 days in 2019). Neither group has a 2020 value.
+3. Accommodation type. Statewide stay length for hotel, condo, timeshare and rental-house visitors. Condo-only visitors stay longest, at 10.4 days in 2019 against 7.1 for hotel-only. In 2020 condo stays reached 13.1 days and rental-house stays 12.3.
+4. Trip purpose. Honeymoon, wedding, business/meetings (MCI) and visiting-friends-and-relatives visitors compared statewide. Visitors seeing friends and relatives stay longest (10.7 days in 2019, peaking at 14.4 in 2020), while business and meetings visitors stay shortest at around 7 to 8 days.
+5. Trend by island. Oahu, Maui, Kauai and Hawaii Island over time. All four started near 6 to 7 days in 1999 and ended near 7 to 8 by 2019. Hawaii Island saw the biggest 2020 jump, from 7.4 to 10.1 days.
+6. Location ranking, 2019. Ranked bars of all-visitor stay length across the nine locations before the pandemic. The statewide figure is 8.8 days, followed by Maui at 7.9, while Lanai is lowest at 3.2.
+7. Heatmap, group by location (2019). A matrix of stay length where darker cells mean longer stays. The darkest cells are statewide visiting-friends-and-relatives (10.7 days) and statewide condo-only (10.4). The palest cells are Molokai hotel-only (2.4) and Lanai first-time (2.4).
+8. 2019 vs 2021 by location. Paired bars showing the pandemic-era shift. Stay length rose in every location, by 0.8 days statewide and by as much as 2.6 on Molokai.
+9. Distribution by visitor group. Boxplots pooling all years and locations. Condo-only visitors have the highest median (9.5 days) and the widest spread, while honeymoon and hotel-only visitors have the lowest medians (5.1 and 5.4 days).
+10. Data availability map. A statewide grid showing which group-and-year cells contain data. Visitor groups like All visitors, Hotel-only, Condo-only and MCI have all 23 years, but Rental house and B&B have 8 and Family has 10..
 
 ## 6. Key Insights
-- 1. Stays shortened slowly, then spiked. Statewide length of stay peaked at 9.5 days in 2011 and slid to 8.8 days by 2019. It then jumped to 10.6 days in 2020, and was still elevated at 9.6 in 2021.
+1. Stays shortened slowly, then spiked. Statewide length of stay peaked at 9.5 days in 2011 and slid to 8.8 days by 2019. It then jumped to 10.6 days in 2020, and was still elevated at 9.6 in 2021.
 2. Where you go changes how long you stay. In 2019 the longest stays were on Maui (7.9 days), and the shortest were on Lanai (3.2). Neighbouring destinations such as Hilo (3.9) and Molokai (4.5) also had much shorter stays than the main islands.
 3. Repeat visitors and condo guests stay longest. Repeat visitors out-stayed first-timers in all 22 years where both have data, and condo-only visitors averaged about three days more than hotel-only visitors in 2019 (10.4 vs 7.1).
 4. The pandemic lengthened stays everywhere. Every location recorded longer stays in 2021 than in 2019, with the biggest increases on Molokai, Hilo and Hawaii Island.
