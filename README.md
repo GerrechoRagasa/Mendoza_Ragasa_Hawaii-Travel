@@ -3,8 +3,8 @@
 ## 1. Group Information
 - **Group Name:**
 - **Members:**
--   * Mendoza, Jose Roart
--   * Ragasa, Crist Gerrecho C.
+   * Mendoza, Jose Roart
+   * Ragasa, Crist Gerrecho C.
 - **Assigned Theme: Travel**
 - **Topic: Hawaii Travel: Length of Trip**
 
