@@ -19,8 +19,7 @@
 ## 3. Flowchart
 - Embed your flowchart image here:
 ![This is a image](https://github.com/22-09083/IMAGE-TEST/blob/main/Hawaii_Tourism_Flowchart_Mendoza_Ragasa.png?raw=true)
-  ```markdown
-  ```
+
 - **Decisions in our flowchart:**
 - Decisions in our flowchart: The flowchart has four decision diamonds. The first asks whether the file contains footnote or non-data rows. It did: four source and update notes sat at the bottom of the file, so we moved them out of the data table and kept the 117 real rows. The second asks whether any rows are duplicated or completely empty. We found none, so nothing was dropped. The third asks what to do about missing values, which make up 21% of all cells (567 of 2,691). We chose to leave them as blanks instead of imputing, because filling in survey averages would create numbers that were never measured. The fourth asks about the 2020 spike in length of stay. We kept it and marked it in the plots, because it reflects a real pandemic-era change in how people travelled.
 - **Changes we made:**
