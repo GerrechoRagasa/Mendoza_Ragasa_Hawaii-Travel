@@ -18,6 +18,7 @@
 
 ## 3. Flowchart
 - Embed your flowchart image here:
+![This is a image](https://github.com/22-09083/IMAGE-TEST/blob/main/Hawaii_Tourism_Flowchart_Mendoza_Ragasa.png?raw=true)
   ```markdown
   ![Preprocessing Flowchart](flowchart/Topic_Flowchart_Pair1Surname_Pair2Surname.png)
   ```
